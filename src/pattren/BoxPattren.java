@@ -1,3 +1,5 @@
+package pattren;
+
 public class BoxPattren {
     public static void main(String[] args) {
 
